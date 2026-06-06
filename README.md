@@ -11,11 +11,11 @@ Software Developer | AI/ML Enthusiast | B.Tech Student
 </p>
 
 <p align="center">
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/hiralgoyal17/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:goyalhiral6@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
@@ -194,7 +194,7 @@ A women-focused safety and support platform designed to provide security and ass
 # 🤝 Let's Connect
 
 <p align="left">
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/hiralgoyal17/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
