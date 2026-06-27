@@ -172,14 +172,6 @@ A women-focused safety and support platform designed to provide security and ass
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/hiral17234/hiral17234/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 # 🎯 Goals for 2025
 
 - Build impactful AI/ML projects
