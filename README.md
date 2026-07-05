@@ -400,3 +400,129 @@ public:
 </div>
 
 ---
+# 💼 Experience & Achievements
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 💼 AI Engineering Intern
+
+### DecodeLabs
+
+- 🤖 Developed AI-powered applications using Python
+- 🧠 Worked with Machine Learning & NLP workflows
+- 📊 Built recommendation systems
+- ⚙️ Implemented data preprocessing pipelines
+- 🤝 Collaborated in Agile development environments
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🏆 Highlights
+
+🥇 **Top 7** — GDGoC DevSprint Hackathon
+
+🚀 **Finalist** — HackOrbit National Hackathon
+
+🌸 **Semi-Finalist** — Google Girl Hackathon
+
+☁️ **86+ Google Arcade Skill Badges**
+
+🎓 **B.Tech Mathematics & Computing**
+MITS Gwalior
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hiral17234&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiral17234&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=hiral17234&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+# 💡 Core Expertise
+
+<div align="center">
+
+| Full Stack | Artificial Intelligence | Backend |
+|------------|-------------------------|---------|
+| React | Gemini AI | Node.js |
+| Next.js | Machine Learning | Express |
+| Firebase | NLP | MongoDB |
+| TypeScript | Genkit | REST APIs |
+
+</div>
+
+---
+
+# 🌱 Currently Building
+
+- 🚀 Production-ready Full Stack Applications
+- 🤖 AI-powered Products
+- ⚡ Backend Systems
+- 🧩 Data Structures & Algorithms
+- ☁️ Cloud-native Applications
+
+---
+# 🤝 Let's Connect
+
+<div align="center">
+
+<p>
+I'm always open to collaborating on impactful projects, hackathons, open-source contributions, and software engineering opportunities.
+</p>
+
+<br>
+
+<a href="mailto:goyalhiral6@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/hiralgoyal17">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/hiral17234/hiral17234/blob/main/Resume_final_Hiral_2026%20july.pdf">
+<img src="https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 👀 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=hiral17234&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:60A5FA&height=120&section=footer"/>
+
+</div>
