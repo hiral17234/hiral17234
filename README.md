@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Hey,%20I'm%20Hiral%20Goyal%20👋&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Builder&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=800&color=F7B0BF,C471ED,12C2E9&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Crafting+AI-Powered+Products+%F0%9F%A4%96;React+%E2%80%A2+Next.js+%E2%80%A2+Firebase+%E2%80%A2+Gemini+API;Turning+Ideas+Into+Scalable+Apps+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2500&pause=800&color=F7B0BF,C471ED,12C2E9&center=true&vCenter=true&multiline=true&width=750&height=110&lines=Crafting+AI-Powered+Products+%F0%9F%A4%96;React+%E2%80%A2+Next.js+%E2%80%A2+Firebase+%E2%80%A2+Gemini+API;Turning+Ideas+Into+Scalable+Apps+%F0%9F%9A%80" alt="Typing SVG"/>
 
-<br/>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/hiralgoyal17/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/hiral17234"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -21,6 +21,7 @@
 - 🎓 **B.Tech, Mathematics & Computing** @ Madhav Institute of Technology & Science (MITS), Gwalior *(2024–2028)*
 - 💼 Currently **AI/ML Engineering Intern** @ DecodeLabs
 - 🧠 Building products around **NLP, recommendation systems & generative AI**
+- 🎨 Also a **Graphic Designer** — I design the UI/UX and visuals for my own products
 - ⚡ Fun fact: I've shipped 4 live full-stack apps solo while still in college
 
 ---
@@ -72,9 +73,12 @@
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 <br/>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<br/>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Stitch](https://img.shields.io/badge/Google%20Stitch-4285F4?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -82,64 +86,66 @@
 
 ### 📌 Featured Projects
 
+<!-- Screenshots pulled from assests/screenshot/ in this repo -->
+
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%">
 
-<img src="https://opengraph.githubassets.com/1/hiral17234/FemigoApp" width="100%"/>
+<img src="assests/screenshot/campusvoice.png" width="100%"/>
 
-**🛡️ Femigo — Women's Safety App**
-
-Women's safety app — SOS alerts, live tracking, fake-call trigger
-
-Technologies: Next.js, Genkit, Leaflet
-
-<a href="https://github.com/hiral17234/FemigoApp"><img src="https://img.shields.io/badge/-View%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://femigo-app.vercel.app/"><img src="https://img.shields.io/badge/-View%20Live-2EA44F?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://opengraph.githubassets.com/1/hiral17234/Campus-Voice" width="100%"/>
-
-**🗳️ CampusVoice**
+**🗳️ [CampusVoice](https://github.com/hiral17234/Campus-Voice)**
 
 Anonymous campus issue-management platform with real-time role-based dashboards
 
-Technologies: React, Firebase, Firestore, Cloudinary
+`React` `Firebase` `Firestore` `Cloudinary`
 
-<a href="https://github.com/hiral17234/Campus-Voice"><img src="https://img.shields.io/badge/-View%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://campusvoice-chi.vercel.app/"><img src="https://img.shields.io/badge/-View%20Live-2EA44F?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/hiral17234/Campus-Voice"><img src="https://img.shields.io/badge/-VIEW%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://campusvoice-chi.vercel.app/"><img src="https://img.shields.io/badge/-VIEW%20LIVE-14b8a6?style=for-the-badge&logoColor=white"/></a>
+
+</td>
+<td width="50%">
+
+<img src="assests/screenshot/notehall.png" width="100%"/>
+
+**📚 [NoteHall](https://github.com/hiral17234/NoteHall)**
+
+Peer-to-peer academic resource sharing with AI Q&A over study material
+
+`React` `Firebase` `Gemini 2.5 Flash`
+
+<a href="https://github.com/hiral17234/NoteHall"><img src="https://img.shields.io/badge/-VIEW%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://notehall.vercel.app/"><img src="https://img.shields.io/badge/-VIEW%20LIVE-14b8a6?style=for-the-badge&logoColor=white"/></a>
 
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="50%">
 
-<img src="https://opengraph.githubassets.com/1/hiral17234/NoteHall" width="100%"/>
+<img src="assests/screenshot/glowher.png" width="100%"/>
 
-**📚 NoteHall**
-
-Peer-to-peer academic resource sharing with AI Q&A over study material
-
-Technologies: React, Firebase, Gemini 2.5 Flash
-
-<a href="https://github.com/hiral17234/NoteHall"><img src="https://img.shields.io/badge/-View%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://notehall.vercel.app/"><img src="https://img.shields.io/badge/-View%20Live-2EA44F?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://opengraph.githubassets.com/1/hiral17234/GlowHer" width="100%"/>
-
-**🌸 GlowHer**
+**🌸 [GlowHer](https://github.com/hiral17234/GlowHer)**
 
 Women's health & wellness platform with AI-personalised, privacy-first insights
 
-Technologies: Next.js, Genkit AI, Gemini API
+`Next.js` `Genkit AI` `Gemini API`
 
-<a href="https://github.com/hiral17234/GlowHer"><img src="https://img.shields.io/badge/-View%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://glowher.vercel.app/"><img src="https://img.shields.io/badge/-View%20Live-2EA44F?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/hiral17234/GlowHer"><img src="https://img.shields.io/badge/-VIEW%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://glowher.vercel.app/"><img src="https://img.shields.io/badge/-VIEW%20LIVE-14b8a6?style=for-the-badge&logoColor=white"/></a>
+
+</td>
+<td width="50%">
+
+<img src="assests/screenshot/femigo.png" width="100%"/>
+
+**🛡️ [Femigo](https://github.com/hiral17234/FemigoApp)**
+
+Women's safety app — SOS alerts, live tracking, fake-call trigger
+
+`Next.js` `Genkit` `Leaflet`
+
+<a href="https://github.com/hiral17234/FemigoApp"><img src="https://img.shields.io/badge/-VIEW%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://femigo-app.vercel.app/"><img src="https://img.shields.io/badge/-VIEW%20LIVE-14b8a6?style=for-the-badge&logoColor=white"/></a>
 
 </td>
 </tr>
@@ -154,7 +160,7 @@ Technologies: Next.js, Genkit AI, Gemini API
 <img src="https://github-readme-stats.vercel.app/api?username=hiral17234&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C471ED&icon_color=F7B0BF&text_color=ffffff&count_private=true" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiral17234&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=C471ED&text_color=ffffff" width="38%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hiral17234&theme=radical&hide_border=true&background=0D1117&ring=C471ED&fire=F7B0BF&currStreakLabel=C471ED" width="90%"/>
+<img src="https://streak-stats.demolab.com/?user=hiral17234&theme=radical&hide_border=true&background=0D1117&ring=C471ED&fire=F7B0BF&currStreakLabel=C471ED" width="90%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hiral17234&theme=react-dark&hide_border=true&bg_color=0D1117&color=C471ED&line=F7B0BF&point=ffffff" width="90%"/>
 
