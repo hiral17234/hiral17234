@@ -84,38 +84,62 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-**🗳️ [CampusVoice](https://github.com/hiral17234/Campus-Voice)**
-Anonymous campus issue-management platform with real-time role-based dashboards
-`React` `Firebase` `Firestore` `Cloudinary`
-🔗 [Live Demo](https://campusvoice-chi.vercel.app/)
+<img src="https://opengraph.githubassets.com/1/hiral17234/FemigoApp" width="100%"/>
+
+**🛡️ Femigo — Women's Safety App**
+
+Women's safety app — SOS alerts, live tracking, fake-call trigger
+
+Technologies: Next.js, Genkit, Leaflet
+
+<a href="https://github.com/hiral17234/FemigoApp"><img src="https://img.shields.io/badge/-View%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://femigo-app.vercel.app/"><img src="https://img.shields.io/badge/-View%20Live-2EA44F?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-**📚 [NoteHall](https://github.com/hiral17234/NoteHall)**
-Peer-to-peer academic resource sharing with AI Q&A over study material
-`React` `Firebase` `Gemini 2.5 Flash`
-🔗 [Live Demo](https://notehall.vercel.app/)
+<img src="https://opengraph.githubassets.com/1/hiral17234/Campus-Voice" width="100%"/>
+
+**🗳️ CampusVoice**
+
+Anonymous campus issue-management platform with real-time role-based dashboards
+
+Technologies: React, Firebase, Firestore, Cloudinary
+
+<a href="https://github.com/hiral17234/Campus-Voice"><img src="https://img.shields.io/badge/-View%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://campusvoice-chi.vercel.app/"><img src="https://img.shields.io/badge/-View%20Live-2EA44F?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-**🌸 [GlowHer](https://github.com/hiral17234/GlowHer)**
-Women's health & wellness platform with AI-personalised, privacy-first insights
-`Next.js` `Genkit AI` `Gemini API`
-🔗 [Live Demo](https://glowher.vercel.app/)
+<img src="https://opengraph.githubassets.com/1/hiral17234/NoteHall" width="100%"/>
+
+**📚 NoteHall**
+
+Peer-to-peer academic resource sharing with AI Q&A over study material
+
+Technologies: React, Firebase, Gemini 2.5 Flash
+
+<a href="https://github.com/hiral17234/NoteHall"><img src="https://img.shields.io/badge/-View%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://notehall.vercel.app/"><img src="https://img.shields.io/badge/-View%20Live-2EA44F?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-**🛡️ [Femigo](https://github.com/hiral17234/FemigoApp)**
-Women's safety app — SOS alerts, live tracking, fake-call trigger
-`Next.js` `Genkit` `Leaflet`
-🔗 [Live Demo](https://femigo-app.vercel.app/)
+<img src="https://opengraph.githubassets.com/1/hiral17234/GlowHer" width="100%"/>
+
+**🌸 GlowHer**
+
+Women's health & wellness platform with AI-personalised, privacy-first insights
+
+Technologies: Next.js, Genkit AI, Gemini API
+
+<a href="https://github.com/hiral17234/GlowHer"><img src="https://img.shields.io/badge/-View%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://glowher.vercel.app/"><img src="https://img.shields.io/badge/-View%20Live-2EA44F?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </td>
 </tr>
