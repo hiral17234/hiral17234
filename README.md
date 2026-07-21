@@ -90,50 +90,7 @@
 
 <table>
 <tr>
-<td width="50%">
 
-<img src="assests/screenshot/campusvoice.png" width="100%"/>
-
-**🗳️ [CampusVoice](https://github.com/hiral17234/Campus-Voice)**
-
-Anonymous campus issue-management platform with real-time role-based dashboards
-
-`React` `Firebase` `Firestore` `Cloudinary`
-
-<a href="https://github.com/hiral17234/Campus-Voice"><img src="https://img.shields.io/badge/-VIEW%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://campusvoice-chi.vercel.app/"><img src="https://img.shields.io/badge/-VIEW%20LIVE-14b8a6?style=for-the-badge&logoColor=white"/></a>
-
-</td>
-<td width="50%">
-
-<img src="assests/screenshot/notehall.png" width="100%"/>
-
-**📚 [NoteHall](https://github.com/hiral17234/NoteHall)**
-
-Peer-to-peer academic resource sharing with AI Q&A over study material
-
-`React` `Firebase` `Gemini 2.5 Flash`
-
-<a href="https://github.com/hiral17234/NoteHall"><img src="https://img.shields.io/badge/-VIEW%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://notehall.vercel.app/"><img src="https://img.shields.io/badge/-VIEW%20LIVE-14b8a6?style=for-the-badge&logoColor=white"/></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<img src="assests/screenshot/glowher.png" width="100%"/>
-
-**🌸 [GlowHer](https://github.com/hiral17234/GlowHer)**
-
-Women's health & wellness platform with AI-personalised, privacy-first insights
-
-`Next.js` `Genkit AI` `Gemini API`
-
-<a href="https://github.com/hiral17234/GlowHer"><img src="https://img.shields.io/badge/-VIEW%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://glowher.vercel.app/"><img src="https://img.shields.io/badge/-VIEW%20LIVE-14b8a6?style=for-the-badge&logoColor=white"/></a>
-
-</td>
 <td width="50%">
 
 <img src="assests/screenshot/femigo.png" width="100%"/>
@@ -148,6 +105,57 @@ Women's safety app — SOS alerts, live tracking, fake-call trigger
 <a href="https://femigo-app.vercel.app/"><img src="https://img.shields.io/badge/-VIEW%20LIVE-14b8a6?style=for-the-badge&logoColor=white"/></a>
 
 </td>
+
+  <td width="50%">
+
+<img src="assests/screenshot/campusvoice.png" width="100%"/>
+
+**🗳️ [CampusVoice](https://github.com/hiral17234/Campus-Voice)**
+
+Anonymous campus issue-management platform with real-time role-based dashboards
+
+`React` `Firebase` `Firestore` `Cloudinary`
+
+<a href="https://github.com/hiral17234/Campus-Voice"><img src="https://img.shields.io/badge/-VIEW%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://campusvoice-chi.vercel.app/"><img src="https://img.shields.io/badge/-VIEW%20LIVE-14b8a6?style=for-the-badge&logoColor=white"/></a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<img src="assests/screenshot/notehall.png" width="100%"/>
+
+**📚 [NoteHall](https://github.com/hiral17234/NoteHall)**
+
+Peer-to-peer academic resource sharing with AI Q&A over study material
+
+`React` `Firebase` `Gemini 2.5 Flash`
+
+<a href="https://github.com/hiral17234/NoteHall"><img src="https://img.shields.io/badge/-VIEW%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://notehall.vercel.app/"><img src="https://img.shields.io/badge/-VIEW%20LIVE-14b8a6?style=for-the-badge&logoColor=white"/></a>
+
+</td>
+  
+<td width="50%">
+
+<img src="assests/screenshot/glowHer1.png" width="100%"/>
+
+**🌸 [GlowHer](https://github.com/hiral17234/GlowHer)**
+
+Women's health & wellness platform with AI-personalised, privacy-first insights
+
+`Next.js` `Genkit AI` `Gemini API`
+
+<a href="https://github.com/hiral17234/GlowHer"><img src="https://img.shields.io/badge/-VIEW%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://glowher.vercel.app/"><img src="https://img.shields.io/badge/-VIEW%20LIVE-14b8a6?style=for-the-badge&logoColor=white"/></a>
+
+</td>
+
+
 </tr>
 </table>
 
