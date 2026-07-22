@@ -108,7 +108,7 @@ Women's safety app — SOS alerts, live tracking, fake-call trigger
 
   <td width="50%">
 
-<img src="assests/screenshot/campusvoice.png" width="100%"/>
+<img src="assests/screenshot/campusvoice1.png" width="100%"/>
 
 **🗳️ [CampusVoice](https://github.com/hiral17234/Campus-Voice)**
 
