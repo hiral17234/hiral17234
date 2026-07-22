@@ -93,7 +93,7 @@
 
 <td width="50%">
 
-<img src="assests/screenshot/femigo.png" width="100%"/>
+<img src="assests/screenshot/femigo1.png" width="100%"/>
 
 **🛡️ [Femigo](https://github.com/hiral17234/FemigoApp)**
 
@@ -127,7 +127,7 @@ Anonymous campus issue-management platform with real-time role-based dashboards
 
 <td width="50%">
 
-<img src="assests/screenshot/notehall.png" width="100%"/>
+<img src="assests/screenshot/notehall1.png" width="100%"/>
 
 **📚 [NoteHall](https://github.com/hiral17234/NoteHall)**
 
