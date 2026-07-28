@@ -19,7 +19,7 @@
 ### 🚀 About Me
 
 - 🎓 **B.Tech, Mathematics & Computing** @ Madhav Institute of Technology & Science (MITS), Gwalior *(2024–2028)*
-- 💼 Currently **AI/ML Engineering Intern** @ DecodeLabs
+- 💼 Completed **AI/ML Engineering Internship** @ DecodeLabs
 - 🧠 Building products around **NLP, recommendation systems & generative AI**
 - 🎨 Also a **Graphic Designer** — I design the UI/UX and visuals for my own products
 - ⚡ Fun fact: I've shipped 4 live full-stack apps solo while still in college
